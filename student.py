@@ -13,7 +13,3 @@ class Student:
         self.signup = Signup(self)
 
     
-
-    def __str__(self) -> str:
-        pass
-    
